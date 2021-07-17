@@ -4,8 +4,8 @@
     box-sizing: border-box;
 }
 body{
-    background: linear-gradient(rgb(255, 196, 3),#c70536);
-    background-repeat: no-repeat;
+    background: linear-gradient(rgb(0, 252, 189),#ffa602);
+    background-repeat:inherit;
 }
 .panel, audio{
     display: flex;
